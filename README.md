@@ -183,4 +183,4 @@ As transformações realizadas permitiram relacionar colaboradores, departamento
 
 ## Dashboard Final
 
-![Dashboard Final](images/dashboard_final.png)
+![Dashboard Final](relatorio-dataset-teste.png)
